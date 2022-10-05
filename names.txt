@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,terzis,Terzis,Abby
 employee,eltgani,Eltgani,Marwa
